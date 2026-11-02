@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">CineStream</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_my_list">My List</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Hero & Actions -->
+    <string name="action_play">Play</string>
+    <string name="action_play_movie">Play Movie</string>
+    <string name="action_more_info">More Info</string>
+    <string name="action_add_to_list">My List</string>
+    <string name="action_in_list">In List</string>
+    <string name="action_share">Share</string>
+    <string name="badge_featured">FEATURED</string>
+    <string name="player_back">Back to Details</string>
+
+    <!-- Sections -->
+    <string name="section_trending">Trending Now</string>
+    <string name="section_latest">Latest Releases</string>
+    <string name="section_popular">Popular on CineStream</string>
+    <string name="section_tv_series">Top Series &amp; Shows</string>
+    <string name="section_recommended">Recommended For You</string>
+    <string name="section_similar">More Like This</string>
+    <string name="section_storyline">Storyline</string>
+    <string name="label_director">Director:</string>
+    <string name="label_cast">Cast:</string>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search movies, series, cast…</string>
+    <string name="search_quick_searches">Quick Searches</string>
+    <string name="search_titles_found">%1$d Titles Found</string>
+    <string name="search_empty_title">No movies or shows found</string>
+    <string name="search_empty_subtitle">Try searching for a different title, director, or select another genre.</string>
+
+    <!-- My List -->
+    <string name="my_list_title">My List</string>
+    <string name="my_list_saved_count">%1$d titles saved to watch</string>
+    <string name="my_list_empty_title">Your List is Empty</string>
+    <string name="my_list_empty_subtitle">Explore trending movies and add them to your watchlist to stream anytime.</string>
+    <string name="my_list_explore_button">Explore Titles</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">Profile &amp; Account</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">App Language</string>
+    <string name="settings_language_desc">Select your preferred display language</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية (Arabic)</string>
+    <string name="language_changed_toast">Language changed</string>
+    <string name="profile_default_user">CineStream User</string>
+    <string name="profile_auth_status">Supabase Authenticated</string>
+    <string name="auth_logout">Sign Out</string>
+    <string name="auth_login_title">Sign In to CineStream</string>
+    <string name="auth_signup_title">Create CineStream Account</string>
+    <string name="auth_sync_subtitle">Sync your watchlist and history across web &amp; mobile via your existing Supabase account.</string>
+    <string name="auth_name">Display Name</string>
+    <string name="auth_email">Email Address</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_sign_in_button">Sign In</string>
+    <string name="auth_sign_up_button">Sign Up</string>
+    <string name="auth_already_have_account">Already have an account? </string>
+    <string name="auth_dont_have_account">Don\'t have an account? </string>
+
+    <!-- Platform Details -->
+    <string name="platform_details_title">Platform Details</string>
+    <string name="platform_player_status">Original Player: Active Web Video Player</string>
+    <string name="platform_db_status">Database: Supabase Live Project (RLS)</string>
+    <string name="platform_version_status">Version: 1.0.0 (Native Android &amp; TV Ready)</string>
+
+    <!-- Loading & Errors -->
+    <string name="loading_catalog">Loading CineStream catalog…</string>
+    <string name="error_connection_title">Connection Error</string>
+    <string name="action_retry_connection">Retry Connection</string>
+    <string name="player_loading_title">Loading original CineStream video player…</string>
+    <string name="player_error_title">Player Connection Error</string>
+    <string name="player_error_subtitle">Unable to load original website video player.</string>
+    <string name="player_action_retry">Retry Player</string>
+    <string name="player_action_direct_embed">Direct Embed</string>
+    <string name="player_toggle_landscape">Toggle Landscape</string>
+    <string name="player_reload_video">Reload Video</string>
+    <string name="genre_all">All</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CineStream</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">بحث</string>
+    <string name="nav_my_list">قائمتي</string>
+    <string name="nav_profile">الملف الشخصي</string>
+
+    <!-- Hero & Actions -->
+    <string name="action_play">تشغيل</string>
+    <string name="action_play_movie">تشغيل الفيلم</string>
+    <string name="action_more_info">تفاصيل أكثر</string>
+    <string name="action_add_to_list">قائمتي</string>
+    <string name="action_in_list">في القائمة</string>
+    <string name="action_share">مشاركة</string>
+    <string name="badge_featured">مميز</string>
+    <string name="player_back">العودة للتفاصيل</string>
+
+    <!-- Sections -->
+    <string name="section_trending">الشائع الآن</string>
+    <string name="section_latest">أحدث الإصدارات</string>
+    <string name="section_popular">الأكثر مشاهدة على CineStream</string>
+    <string name="section_tv_series">أفضل المسلسلات والعروض</string>
+    <string name="section_recommended">ترشيحات مخصصة لك</string>
+    <string name="section_similar">أعمال مشابهة</string>
+    <string name="section_storyline">القصة</string>
+    <string name="label_director">المخرج:</string>
+    <string name="label_cast">طاقم العمل:</string>
+
+    <!-- Search -->
+    <string name="search_title">بحث</string>
+    <string name="search_hint">ابحث عن أفلام، مسلسلات، ممثلين…</string>
+    <string name="search_quick_searches">عمليات بحث شائعة</string>
+    <string name="search_titles_found">تم العثور على %1$d عنوان</string>
+    <string name="search_empty_title">لم يتم العثور على أفلام أو عروض</string>
+    <string name="search_empty_subtitle">جرّب البحث عن عنوان آخر، مخرج، أو اختر تصنيفاً مختلفاً.</string>
+
+    <!-- My List -->
+    <string name="my_list_title">قائمتي</string>
+    <string name="my_list_saved_count">تم حفظ %1$d عنوان للمشاهدة</string>
+    <string name="my_list_empty_title">قائمتك فارغة</string>
+    <string name="my_list_empty_subtitle">استكشف الأفلام والمسلسلات وأضفها إلى قائمتك لمشاهدتها لاحقاً.</string>
+    <string name="my_list_explore_button">استكشاف العناوين</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">الملف الشخصي والحساب</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_language">لغة التطبيق</string>
+    <string name="settings_language_desc">اختر لغة العرض المفضلة لديك</string>
+    <string name="language_english">English (الإنجليزية)</string>
+    <string name="language_arabic">العربية (Arabic)</string>
+    <string name="language_changed_toast">تم تغيير اللغة بنجاح</string>
+    <string name="profile_default_user">مستخدم CineStream</string>
+    <string name="profile_auth_status">مصادقة سحابية عبر Supabase</string>
+    <string name="auth_logout">تسجيل الخروج</string>
+    <string name="auth_login_title">تسجيل الدخول إلى CineStream</string>
+    <string name="auth_signup_title">إنشاء حساب جديد</string>
+    <string name="auth_sync_subtitle">زامن قائمتك وسجل مشاهدتك بين الويب والجوال عبر حسابك في Supabase.</string>
+    <string name="auth_name">الاسم المستعار</string>
+    <string name="auth_email">البريد الإلكتروني</string>
+    <string name="auth_password">كلمة المرور</string>
+    <string name="auth_sign_in_button">تسجيل الدخول</string>
+    <string name="auth_sign_up_button">إنشاء الحساب</string>
+    <string name="auth_already_have_account">لديك حساب بالفعل؟ </string>
+    <string name="auth_dont_have_account">ليس لديك حساب؟ </string>
+
+    <!-- Platform Details -->
+    <string name="platform_details_title">معلومات النظام</string>
+    <string name="platform_player_status">مشغل الفيديو: المشغل الأصلي للموقع فعال</string>
+    <string name="platform_db_status">قاعدة البيانات: Supabase مباشر (RLS)</string>
+    <string name="platform_version_status">الإصدار: 1.0.0 (أندرويد أصلي وجاهز لأجهزة التلفاز)</string>
+
+    <!-- Loading & Errors -->
+    <string name="loading_catalog">جاري تحميل مكتبة CineStream…</string>
+    <string name="error_connection_title">خطأ في الاتصال</string>
+    <string name="action_retry_connection">إعادة المحاولة</string>
+    <string name="player_loading_title">جاري تحميل مشغل فيديو CineStream الأصلي…</string>
+    <string name="player_error_title">تعذر تشغيل الفيديو</string>
+    <string name="player_error_subtitle">تعذر تحميل مشغل الفيديو الأصلي للموقع.</string>
+    <string name="player_action_retry">إعادة محاولة المشغل</string>
+    <string name="player_action_direct_embed">تضمين مباشر</string>
+    <string name="player_toggle_landscape">تدوير الشاشة</string>
+    <string name="player_reload_video">إعادة تحميل الفيديو</string>
+    <string name="genre_all">الكل</string>
+</resources>

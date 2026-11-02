@@ -1,0 +1,6 @@
+{
+  "name": "CineStream",
+  "description": "Stream movies and TV series with a Netflix-style native experience, real-time Supabase catalog, and integrated video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
